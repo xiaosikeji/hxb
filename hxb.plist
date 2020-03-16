@@ -15,19 +15,11 @@
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string></string>
-				</dict>
-				<dict>
-					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
-					<string></string>
+					<string>https://www.huaxiaoban.cn/img/hxb_logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -38,10 +30,8 @@
 				<string>1.1.7</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>ª®–°∞È</string>
 				<key>title</key>
-				<string>ª®–°∞È</string>
+				<string>Ëä±Â∞è‰º¥</string>
 			</dict>
 		</dict>
 	</array>
